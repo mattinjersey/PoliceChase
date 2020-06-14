@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "PoliceChase2",
+"productVersion": "1.5.2",
+"dataUrl": "PoliceChase.data.unityweb",
+"wasmCodeUrl": "PoliceChase.wasm.code.unityweb",
+"wasmFrameworkUrl": "PoliceChase.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.14f1"
+}
